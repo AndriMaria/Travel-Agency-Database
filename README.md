@@ -4,7 +4,7 @@
 A Travel Agency Database built with MySQL, developed collaboratively with 2 teammates as part of our Database course in university.
 
 ## 🛠️ Technologies
-- **MySQL**
+- **MySQL**  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 
 ## 🏗️ Database Structure
 
